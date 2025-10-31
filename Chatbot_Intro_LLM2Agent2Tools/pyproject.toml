@@ -1,0 +1,9 @@
+[project]
+name = "chatbot-intro-llm2agent2tools"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "pydantic-ai>=0.4.11",
+]
+
